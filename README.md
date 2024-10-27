@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Khajavi</h1>
-<h3 align="center">A Passionate Firmware, IoT and Python Developer From Iran</h3>
+<h3 align="center">A Passionate Firmware, IoT and Python Developer</h3>
 
 - 🔭 I’m currently working on [Monitoring](https://github.com/Ali-khajavi/Monitoring-kivy)
 
