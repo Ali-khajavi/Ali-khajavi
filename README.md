@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Monitoring](https://github.com/Ali-khajavi/Monitoring-kivy)
 
-- 🌱 I’m currently learning **python-kivy & D-jango**
+- 🌱 I’m currently learning **python-machin learning**
 
 - 👯 I’m looking to collaborate on **Programming python or C++ as well Embedded system**
 
