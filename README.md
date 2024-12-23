@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ali Khajavi</h1>
 <h3 align="center">A Passionate Firmware, IoT and Python Developer</h3>
 
-- 🔭 I’m currently working on [Monitoring](https://github.com/Ali-khajavi/Monitoring-kivy)
+- 🔭 I’m currently working on C++ and C Embedded software developing
 
-- 🌱 I’m currently learning **python-machin learning**
+- 🌱 I’m currently learning Advanced C method implemented specifically for ARM Cortex processors
 
-- 👯 I’m looking to collaborate on **Programming python or C++ as well Embedded system**
+- 👯 I’m looking to collaborate on Programming python or C++ and C as embedded software developer or embedded Circuit developer
 
-- 💬 Ask me about **ESP8266, IoT, C/C++, Python, Embedded Systems, Unity C#**
+- 💬 Ask me about ESP, IoT, C/C++, Python, Embedded Systems Os, Unity C#, and most of embedded Communication protocols
 
-- 📫 How to reach me **a8.khajavi@gmail.com**
+- 📫 How to reach me alikhajavi1994@protonmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
